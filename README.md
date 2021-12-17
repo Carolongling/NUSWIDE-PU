@@ -1,12 +1,12 @@
 # NUSWIDE-PU
 
-处理后的NUS-WIDE源数据集：取前26个类的image、tag、label做使用
-文件名：FLICKR-25K.mat
-链接：https://pan.baidu.com/s/1freqirqJqvWhzQuPZ6g2FA 提取码: ii10
+处理后的NUS-WIDE源数据集：取前26个类的image、tag、label做使用 \n
+文件名：FLICKR-25K.mat \n
+链接：https://pan.baidu.com/s/1freqirqJqvWhzQuPZ6g2FA 提取码: ii10 \n
 
-1.下载FLICKR-25K.mat
-2.读取数据，终端运行python load_data.py，会对image和tag，label数据进行序列化，会生成image，tag，label的序列文件
-3.运行主文件：python NUSWIDE_SPY.py
+1.下载FLICKR-25K.mat \n
+2.读取数据，终端运行python load_data.py，会对image和tag，label数据进行序列化，会生成image，tag，label的序列文件 \n
+3.运行主文件：python NUSWIDE_SPY.py \n
 
 图像预训练模型对应文件：vgg.py
 文本预训练模型对应文件：nn.py
