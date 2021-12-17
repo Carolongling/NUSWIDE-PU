@@ -13,11 +13,24 @@
 <p>
 3.运行主文件：python NUSWIDE_SPY.py
 </p>
+<p>
 图像预训练模型对应文件：vgg.py
+</p>
+<p>
 文本预训练模型对应文件：nn.py
+</p>
+<p>
 spy文件：pu_learning.py
+</p>
+<p>
 主运行文件：NUSWIDE_SPY.py
-
+</p>
+<p>
 公司服务器：172.16.0.163
+</p>
+<p>
 已配置好的环境：conda activate VFL_SPY
+</p>
+<p>
 文件位置：/home/centos/zll/VFL_SPY
+</p>
